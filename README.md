@@ -1,1 +1,2 @@
-# -Practice--Graph_Neural_Network
+# Practice
+-Graph_Neural_Network
